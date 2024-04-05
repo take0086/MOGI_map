@@ -32,9 +32,9 @@
   
   .menkyo_img {
     display: block;
-    width: 35%;
+    width: 40%;
     margin: auto;
-    padding-top: 80px;
+    /* padding-top: 80px; */
   }
 
   /* [END maps_advanced_markers_accessibility] */
