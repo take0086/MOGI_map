@@ -33,11 +33,24 @@
   h1{
     text-align: center;
   }
+  .menkyo-map{
+    display: flex;
+    width: 70%;
+    margin: auto;
+  }
+  .prefectural_list{
+    width: 30%;
+  }
+  .list{
+    column-count: 4;
+    list-style: none;
+    padding-left: 0;
+  }
   .menkyo_img {
     display: block;
-    width: 40%;
+    width: 45VW;
     margin: auto;
-    margin-top: -5vw;
+    /* margin-top: -5vw; */
     /* padding-top: 80px; */
   }
 
